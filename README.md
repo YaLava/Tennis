@@ -12,7 +12,7 @@ Player2: Стрелка вверх, стрелка вниз
 ***
 # Мяч
 Мяч который должный отбивать игроки движеться автоматически, и отскакивает от ракеток и верхних и нижних стенок  
-![Иллюстрация к проекту]([https://github.com/YaLava/Tennis/blob/main/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20(8)/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(487).png])
+![Иллюстрация к проекту]([[https://github.com/YaLava/Tennis/blob/main/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20(8)/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(487).png](https://github.com/YaLava/Tennis/blob/main/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20(8)/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(488).png)])
 
 ***
 # Надписи
